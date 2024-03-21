@@ -1,4 +1,4 @@
 site_name: gitbook_test
-sit_url: https://github.com/JhonCorro/gitbook_test.git
+site_url: https://github.com/JhonCorro/gitbook_test.git
 nav:
     - Home: README.md
