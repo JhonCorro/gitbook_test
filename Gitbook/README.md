@@ -1,5 +1,7 @@
 # gitbook\_test
 
+Prueba para github
+
 Probando gitbook
 
 Drawio
@@ -11,3 +13,12 @@ Lucidchart
 {% embed url="https://lucid.app/documents/view/b254beea-a23b-4b03-9a0b-b8c78fb9c904" %}
 
 Modificación realizada desde GitHub.
+
+La plena esto con github es un enrredo.
+
+
+
+| Prueba | Prueba |
+| ------ | ------ |
+| 1      | 3      |
+| 2      | 4      |
